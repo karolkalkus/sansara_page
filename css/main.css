@@ -25,7 +25,7 @@ body {
   background-image: url(../img/Warstwa_5_kopia.png);
   background-size: contain;
   width: 152px;
-  height: 76px;
+  height: 75px;
   top: -30px;
   left: 33%;
   z-index: 2;
@@ -1110,7 +1110,7 @@ body {
 .contact .unpacked {
   position: absolute;
   width: 1000px;
-  top: 445px;
+  top: 450px;
   right: 0;
   z-index: -2;
 }
